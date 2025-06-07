@@ -1,0 +1,6 @@
+/* 
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-br from-orange-100 via-white to-orange-200 text-gray-800 min-h-screen font-sans;
+} */
